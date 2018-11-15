@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball effect.CSharp.Plugins", "Pinball effect.CSharp.Plugins.csproj", "{AFAC77AE-C0A1-CE81-1A6A-D904D58496B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball effect.CSharp", "Pinball effect.CSharp.csproj", "{B5EB0A9B-29D2-4956-6357-A33103F98215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball effect.CSharp.Editor", "Pinball effect.CSharp.Editor.csproj", "{28920873-A136-DDF9-DFF1-8A3040A11FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAC77AE-C0A1-CE81-1A6A-D904D58496B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAC77AE-C0A1-CE81-1A6A-D904D58496B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAC77AE-C0A1-CE81-1A6A-D904D58496B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAC77AE-C0A1-CE81-1A6A-D904D58496B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EB0A9B-29D2-4956-6357-A33103F98215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EB0A9B-29D2-4956-6357-A33103F98215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EB0A9B-29D2-4956-6357-A33103F98215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EB0A9B-29D2-4956-6357-A33103F98215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28920873-A136-DDF9-DFF1-8A3040A11FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28920873-A136-DDF9-DFF1-8A3040A11FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28920873-A136-DDF9-DFF1-8A3040A11FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28920873-A136-DDF9-DFF1-8A3040A11FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

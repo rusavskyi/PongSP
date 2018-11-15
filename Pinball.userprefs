@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Pinball.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Effect Scripts\BoostEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Effect Scripts\FissionEffect.cs" Line="35" Column="27" />
+      <File FileName="Assets\Scripts\BallScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PaddleScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Stalex_89\Documents\Pinball\Assets\Scripts\PlayerScript.cs" line="60" column="2" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
